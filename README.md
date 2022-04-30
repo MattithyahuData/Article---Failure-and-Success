@@ -1,7 +1,7 @@
 ## **Failure and Success**
 ### *Do we really learn more from our failures than our success?*
 
-[Taken from Article - Learning](https://mattithyahudata.github.io/jekyll/update/2022/03/14/Learning.html)
+[The below articles were taken from the Article - Learning](https://mattithyahudata.github.io/jekyll/update/2022/03/14/Learning.html)
 #### *"Failure and mistakes are inevitable - accept it, embrace it, and learn through it." - Mattithyahu* 
 #### *"I whole heartedly believe the person that will go far in life and improve continuously is the person that is dedicated to learning everyday." - Mattithyahu* 
 
