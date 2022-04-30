@@ -24,10 +24,11 @@ Know that failures are a part of success, it is a great sign that you're trying 
 
 ## Questions | Contact me 
 Thanks for reading.
-For questions, feedback, and contribution requests contact me
+For questions, feedback, and contribution requests contact me<br>
+
 *The views expressed in this articles are solely my own and should not be taken as medical, financial or personal advice.*
-* ### [Click here to email me](mailto:contactmattithyahu@gmail.com) 
-* ### [See more work here](https://mattithyahudata.github.io/)
+- [Click here to email me](mailto:contactmattithyahu@gmail.com) 
+- [See more work here](https://mattithyahudata.github.io/)
 
 
 
