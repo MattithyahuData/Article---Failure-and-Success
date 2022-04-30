@@ -1,7 +1,7 @@
 ## **Failure and Success**
 ### *Do we really learn more from our failures than our success?*
 
-[The below articles were taken from the Article - Learning](https://mattithyahudata.github.io/jekyll/update/2022/03/14/Learning.html)
+[The below quotes were taken from the Article - Learning](https://mattithyahudata.github.io/jekyll/update/2022/03/14/Learning.html)
 #### *"Failure and mistakes are inevitable - accept it, embrace it, and learn through it." - Mattithyahu* 
 #### *"I whole heartedly believe the person that will go far in life and improve continuously is the person that is dedicated to learning everyday." - Mattithyahu* 
 
@@ -26,9 +26,12 @@ Know that failures are a part of success, it is a great sign that you're trying 
 Thanks for reading.
 For questions, feedback, and contribution requests contact me<br>
 
-*The views expressed in this articles are solely my own and should not be taken as medical, financial or personal advice.*
 - [Click here to email me](mailto:contactmattithyahu@gmail.com) 
 - [See more work here](https://mattithyahudata.github.io/)
+
+---
+
+*The views expressed in this articles are solely my own and should not be taken as medical, financial or personal advice.*
 
 
 
